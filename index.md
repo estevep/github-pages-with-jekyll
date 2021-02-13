@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Example of what Phelm avenir repo could be
 
-I'm glad you are here. I plan to talk about ...
+A test *in bold* _or italics_
